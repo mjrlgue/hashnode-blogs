@@ -120,7 +120,7 @@ Here is an output from ChatGPT about an elasticsearch error `flood stage disk wa
 
 Surprisingly, ChatGPT figured out the reason of possible causes of the error, and listed possible solutions to do or to check to resolve it! Now we need to implement this using Watcher.
 
-For that, go to your DevTools in Kibana at http://loclahost:5601/app/dev\_tools, and let's test a simple Watch [http input](https://www.elastic.co/guide/en/elasticsearch/reference/current/input-http.html). But before, you need to have an elastic license to use Watcher, you can activate the 30-day trial license using: `POST /_license/start_trial?acknowledge=true`. You'll get the following response:
+For that, go to your DevTools in Kibana at [http://localhost:5601/app/dev\_tools](http://localhost:5601/app/dev_tools), and let's test a simple Watch [http input](https://www.elastic.co/guide/en/elasticsearch/reference/current/input-http.html). But before, you need to have an elastic license to use Watcher, you can activate the 30-day trial license using: `POST /_license/start_trial?acknowledge=true`. You'll get the following response:
 
 ```bash
 {
