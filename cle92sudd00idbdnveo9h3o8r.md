@@ -10,7 +10,7 @@ tags: debugging, dataengineering, troubleshooting, debuggingfeb
 
 ---
 
-> This blog post participated in the [#**DebuggingFeb**](https://hashnode.com/n/debuggingfeb) writeathon, and secured the [runners up](https://townhall.hashnode.com/debuggingfeb-writeathon-winners#heading-runners-up) place !
+> This blog post participated in the [#**DebuggingFeb**](https://hashnode.com/n/debuggingfeb) writeathon, and secured the [runners up](https://townhall.hashnode.com/debuggingfeb-writeathon-winners#heading-runners-up) place :) !
 
 # Introduction
 
