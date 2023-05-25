@@ -1,7 +1,7 @@
 ---
 title: "The Art of IT Debugging & Troubleshooting: a Cheesy approach"
 seoTitle: "The Art of Debugging & Troubleshooting in IT: a Cheesy approach"
-seoDescription: "The Art of IT Debugging & Troubleshooting programming"
+seoDescription: "how to troubleshoot debug production docker logging"
 datePublished: Fri Feb 17 2023 22:01:39 GMT+0000 (Coordinated Universal Time)
 cuid: cle92sudd00idbdnveo9h3o8r
 slug: the-art-of-it-debugging-troubleshooting-a-cheesy-approach
@@ -9,6 +9,8 @@ cover: https://cdn.hashnode.com/res/hashnode/image/upload/v1676644932988/01aa66c
 tags: debugging, dataengineering, troubleshooting, debuggingfeb
 
 ---
+
+> This blog post participated in the [#**DebuggingFeb**](https://hashnode.com/n/debuggingfeb) writeathon, and secured the [runners up](https://townhall.hashnode.com/debuggingfeb-writeathon-winners#heading-runners-up) place !
 
 # Introduction
 
