@@ -242,6 +242,7 @@ before running `kubectl apply -f .\eck.yml`, let's take a couple of minutes to u
           name: elasticsearch
           namespace: eck-multi-node
           version: 8.8.0
+        spec:
           nodeSets:
           - name: master
             count: 3
