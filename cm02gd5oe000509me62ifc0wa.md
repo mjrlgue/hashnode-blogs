@@ -19,16 +19,16 @@ I've faced this problem before: "starting a project but the data isn't ready yet
 
 ![](https://cdn.hashnode.com/res/hashnode/image/upload/v1707676639364/a9428aca-bde7-496b-a479-fff371aada8b.jpeg align="center")
 
-The steps to mock-up your data are as follows:
+The steps to mock your data are as follows:
 
 1. Ask the right person in your organization for a data sample or data scheme *(ex: what a JSON look like? data schema? etc.)*
     
-2. write your Python script (aka mock-up script)
+2. write your Python script (aka mock script)
     
 3. and start ingesting!
     
 
-The example we will be using to illustrate how to mock up the data is the [Android mobile payment from Google](https://developers.google.com/pay/api/android/reference/request-objects#final-price-example) as described below:
+The example we will be using to illustrate how to mock the data is the [Android mobile payment from Google](https://developers.google.com/pay/api/android/reference/request-objects#final-price-example) as described below:
 
 ```json
 "transactionInfo": {
@@ -57,7 +57,7 @@ For this blog you need:
 
 # Tools
 
-1. For the mock-up script, we will be using [Faker](https://faker.readthedocs.io/en/master/), a Python package that generates fake data based on providers. It can be used for creating sample data, stress testing your database, anonymizing data, and more.  
+1. For the mock script, we will be using [Faker](https://faker.readthedocs.io/en/master/), a Python package that generates fake data based on providers. It can be used for creating sample data, stress testing your database, anonymizing data, and more.  
     Faker providers: [https://faker.readthedocs.io/en/master/index.html#contents](https://faker.readthedocs.io/en/master/index.html#contents)
     
 2. Since we'll ingest data in an elastic cluster, we'll be using [python elasticsearch client](https://elasticsearch-py.readthedocs.io/en/v8.6.0/) for indexing data
