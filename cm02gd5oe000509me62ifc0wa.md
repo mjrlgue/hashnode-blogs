@@ -3,7 +3,7 @@ title: "No Data, No Problem: Ingesting FAKE Data Might Increase Your Productivit
 seoDescription: "Discover how to overcome the challenge of missing data in your data engineering projects with our practical guide on using mock data."
 datePublished: Tue Aug 20 2024 13:20:30 GMT+0000 (Coordinated Universal Time)
 cuid: cm02gd5oe000509me62ifc0wa
-slug: no-data-no-problem-ingesting-fake-data-might-increase-your-productivity-1
+slug: no-data-no-problem-ingesting-fake-data-might-increase-your-productivity
 cover: https://cdn.hashnode.com/res/hashnode/image/upload/v1724159830265/104dd766-0dc5-43d7-a7cd-a9685d2f1458.png
 tags: python, kubernetes, elasticsearch, elastic, mocking, data-engineering
 
