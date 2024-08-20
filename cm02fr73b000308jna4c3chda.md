@@ -1,6 +1,5 @@
 ---
 title: "No Data, No Problem: Ingesting FAKE Data Might Increase Your Productivity 🚀🚀🚀"
-seoTitle: "Data engineering: Mock up data with python"
 seoDescription: "Discover how to overcome the challenge of missing data in your data engineering projects with our practical guide on using mock data. Learn how to boost pro"
 datePublished: Tue Aug 20 2024 13:03:25 GMT+0000 (Coordinated Universal Time)
 cuid: cm02fr73b000308jna4c3chda
