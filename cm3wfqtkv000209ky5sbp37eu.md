@@ -1,5 +1,6 @@
 ---
 title: "Elastic Observability 101"
+seoTitle: "Getting Started with Elastic Observability: A Beginner's Guide"
 seoDescription: "Learn the basics of Elastic Observability and discover how it helps monitor and improve your system's performance. Perfect for beginners exploring Elastic"
 datePublished: Mon Nov 25 2024 02:55:20 GMT+0000 (Coordinated Universal Time)
 cuid: cm3wfqtkv000209ky5sbp37eu
