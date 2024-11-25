@@ -523,6 +523,6 @@ SLO documentation: [https://www.elastic.co/guide/en/observability/current/slo.ht
 
 # Conclusion
 
-Elastic Observability provides a wide range of features and tools to make your systems easier to monitor and understand. In this post, I covered just the basics, but there's so much more to explore, feel free to dive into other aspects and discover its full potential.
+Elastic Observability provides a wide range of features and tools to make your systems easier to monitor and understand. In this post, I covered just the basics, but there's so much more to explore, feel free to dive into other aspects and discover its full potential. For a hands-on experience, check out the official Elastic demo: [https://demo.elastic.co](https://demo.elastic.co)
 
 *Cover image generated with AI!*
