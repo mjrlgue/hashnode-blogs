@@ -164,15 +164,15 @@ More information can be found in the doc: [https://www.elastic.co/guide/en/fleet
     Elastic Agent has been successfully installed.
     ```
     
-    The output says that fleet server is installed and an elastic-agent is deployed with the policy generated early from Kibana UI. If you run `top` in your terminal, you’ll see a process named `fleet-server` is running:
+    The output says that fleet server is installed and an Elastic Agent is deployed with the policy generated early from Kibana UI. If you run `top` in your terminal, you’ll see a process named `fleet-server` is running:
     
     ![](https://cdn.hashnode.com/res/hashnode/image/upload/v1731459912156/f4005c9a-2081-4631-8c2e-e1e023ccb8ac.png align="center")
     
-    and to check the status of the elastic-agenton Debian, run `systemctl status elastic-agent`:
+    and to check the status of the Elastic Agent on Debian, run `systemctl status elastic-agent`:
     
     ![](https://cdn.hashnode.com/res/hashnode/image/upload/v1731459987532/f9216bea-481c-493f-b524-7056a9e6db5e.png align="center")
     
-4. In Kibana we have the confirmation Fleet server is connected, click on **“Continue enrolling Elastic Agent“** if you want to enroll new elastic-agents. For this demo we previously deployed one with Fleet server, close this menu if you don’t want to enroll a new elastic-agent.
+4. In Kibana we have the confirmation Fleet server is connected, click on **“Continue enrolling Elastic Agent“** if you want to enroll new Elastic Agents. For this demo we previously deployed one with Fleet server, close this menu if you don’t want to enroll a new Elastic Agent.
     
     ![](https://cdn.hashnode.com/res/hashnode/image/upload/v1731460967709/c75d6425-c9b4-40a9-af0f-de8c803eacac.png align="center")
     
@@ -505,7 +505,7 @@ and also provides connectors (like Slack, email, etc.) to automatically send the
 
 ![](https://cdn.hashnode.com/res/hashnode/image/upload/v1732498046757/43c71911-dd71-46ee-bd06-998c97c32890.png align="center")
 
-### SLOs
+## SLOs
 
 Service-level objectives (SLOs) allow you to measure your service performance based on factors like: availability, response time, etc. We can create an SLO for our monitored services in heartbeat to measure their performance using an SLO of type “Custom Query”:
 
