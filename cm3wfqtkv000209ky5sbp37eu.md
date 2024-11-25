@@ -391,7 +391,7 @@ kubectl port-forward -n carapp service/cardatabase-service 8080:8080
 kubectl port-forward -n carapp service/carfront-service 5000:5000
 ```
 
-**Tip: Since we are using a self-signed certificate, before accessing your carfront URL, access first to the APM Server on** **https://localhost:8200** **and accept from your browser the warning message. Doing this will allow the carfront web app to send RUM data to APM Server, otherwise, you’ll get some HTTP error message in the console preventing sending data to** **https://localhost:8200****.**
+**Tip: Since we are using a self-signed certificate, before accessing your carfront URL, access first to the APM Server on** **https://localhost:8200** **and accept from your browser the warning message. Doing this will allow the carfront web app to send RUM data to APM Server, otherwise, you’ll get some HTTP error message in the console preventing sending data to** **https://localhost:8200**\*\*.\*\*
 
 When accessing the carfront app on **http://localhost:5000**, we can see both apps showing in the APM UI: [https://localhost:5601/app/apm/services](https://localhost:5601/app/apm/services) :
 
@@ -461,7 +461,7 @@ curl -k -v -X POST "https://quickstart-kb-http.eck.svc:5601/api/apm/sourcemaps" 
 -F "sourcemap=@./runtime~main.fdfcfda2.js.map"
 ```
 
-For each curl command, you need to get the following message at the end:  
+For each curl command, you need to get the following message at the end:
 
 ```bash
 ..."created":"2024-11-25T00:36:52.422Z","id":"apm:carfront-0.90-f7e4
