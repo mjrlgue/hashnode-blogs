@@ -11,7 +11,7 @@ tags: kubernetes, elasticsearch, elastic, observability
 
 # Introduction
 
-Have you ever wondered how a pilot can navigate an airplane through dark skies and storms, carrying hundreds of passengers, and still reach their destination after hours of flight? The answer lies in the tools provided by the airplane manufacturer. These tools allow the pilot to continuously monitor the health of all systems on board, ensuring that everything is functioning properly even when human vision is limited, making the airplane **observable**! This concept of constant monitoring and insight is what we call 'observability.' But what exactly is observability, and how does it apply to modern IT technologies?"
+Have you ever wondered how a pilot can navigate an airplane through dark skies and storms, carrying hundreds of passengers, and still reach their destination after hours of flight? The answer lies in the tools provided by the airplane manufacturer. These tools allow the pilot to continuously monitor the health of all systems on board, ensuring that everything is functioning properly even when human vision is limited, making the airplane **observable**! This concept of constant monitoring and insight is what we call **“Observability”**. But what exactly is observability, and how does it apply to modern IT technologies?"
 
 ## What is Observability?
 
@@ -49,7 +49,7 @@ Elastic has made many tools for different usage to make a system observable base
 * winlogbeat, and more
     
 
-For all the beat framework check this link: [https://www.elastic.co/guide/en/beats/libbeat/current/beats-reference.html](https://www.elastic.co/guide/en/beats/libbeat/current/beats-reference.html)
+For all the beat frameworks check this link: [https://www.elastic.co/guide/en/beats/libbeat/current/beats-reference.html](https://www.elastic.co/guide/en/beats/libbeat/current/beats-reference.html)
 
 Perhaps you may say: there are many tools out there it’s complex! Don’t worry Elastic got your back, by making all the beats packaged in one tool called Elastic Agent.
 
